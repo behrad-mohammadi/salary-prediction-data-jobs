@@ -7,8 +7,8 @@ This repository contains the code, data and analysis for my MSc IT in Business D
 
 Project structure:
 
-- `Data/Raw/` – original datasets
 - `Data/Processed/` – cleaned and transformed data
+- `Data/Raw/` – original datasets
 - `Documents/` – additional documents
 - `Figures/` – plots and figures for the thesis
 - `Notebook/` – main analysis notebooks
