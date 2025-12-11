@@ -4,7 +4,7 @@ This repository contains the code, data and analysis for my MSc IT in Business D
 
 - Topic: Predicting Salaries for Data-Related Jobs
 - Student: Behrad KhamenehMohammadi
-- Student ID: 1251322633
+
 
 ## GitHub project structure:
 
